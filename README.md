@@ -7,23 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>jakarta-info-viral | Info viral seputaran jakarta dan sekitar</title>
+<title>Jatim-News-Today | Info Kabar Terbaru Seputaran Jatim dan Sekitarnya</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="jakarta-info-viral" />
+<meta property="og:title" content="Jatim-News-Today" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Info viral seputaran jakarta dan sekitar" />
-<meta property="og:description" content="Info viral seputaran jakarta dan sekitar" />
-<link rel="canonical" href="https://harianjakarta-01.github.io/jakarta-info-viral/" />
-<meta property="og:url" content="https://harianjakarta-01.github.io/jakarta-info-viral/" />
-<meta property="og:site_name" content="jakarta-info-viral" />
+<meta name="description" content="Info viral seputaran Jatim dan sekitar" />
+<meta property="og:description" content="Info viral seputaran Jatim dan sekitar" />
+<link rel="canonical" href="https://jatimnews.github.io/today/" />
+<meta property="og:url" content="https://jatimnews.github.io/today/" />
+<meta property="og:site_name" content="Jatim-News-Today" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="jakarta-info-viral" />
+<meta property="twitter:title" content="Jatim-News-Today" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Info viral seputaran jakarta dan sekitar","headline":"jakarta-info-viral","name":"jakarta-info-viral","url":"https://harianjakarta-01.github.io/jakarta-info-viral/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Info viral seputaran Jatim dan sekitar","headline":"Jatim-News-Today","name":"Jatim-News-Today","url":"https://jatimnews.github.io/today/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/jakarta-info-viral/assets/css/style.css?v=d85768f500cdfffb7dc1d1f1a9b0b47c437fd90d">
+    <link rel="stylesheet" href="/Jatim-News-Today/assets/css/style.css?v=d85768f500cdfffb7dc1d1f1a9b0b47c437fd90d">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -31,7 +31,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/jakarta-info-viral/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Jatim-News-Today/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -39,7 +39,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://harianjakarta-01.github.io/jakarta-info-viral/">jakarta-info-viral</a></h1>
+      <h1><a href="https://jatimnews.github.io/today/">Jatim-News-Today</a></h1>
       
 
       
@@ -48,15 +48,15 @@
     <meta name="google-site-verification" content="sA6XmGw1GzB2uQjX-X39VOCqnvY6yd7Zzed3mRsFsU0" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Info Berita teraktual dan viral di jakarta tahun 2025. Temukan berita tebaru dan terpopuler hanya di Jakarta Info Viral." />
-    <meta name="keywords" content="berita jakarta, berita viral, berita trending, berita terbaru, tahun 2025, Google Discover" />
-    <meta name="author" content="Harian Jakarta" />
-    <link rel="canonical" href="https://harianjakarta-01.github.io/jakarta-info-viral/" />
+    <meta name="description" content="Info Berita teraktual dan viral di Jatim tahun 2025. Temukan berita tebaru dan terpopuler hanya di Jatim Info Viral." />
+    <meta name="keywords" content="berita Jatim, berita viral, berita trending, berita terbaru, tahun 2025, Google Discover" />
+    <meta name="author" content="Harian Jatim" />
+    <link rel="canonical" href="https://jatimnews.github.io/today/" />
     <meta name="google-site-verification" content="SZkK9Djdf92qmr3wEfDwGRL9qscl8CXx94vL5hCLc4M" />
     <meta name="google-site-verification" content="Ab1lDjtoZ6NHW76VfEuUxypydBPwhtlZc_2-bvxvtEU" />
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />
     <meta name="google-site-verification" content="sA6XmGw1GzB2uQjX-X39VOCqnvY6yd7Zzed3mRsFsU0" />
-    <title>Berita Teraktual &amp; Terupdate 2025 | Jakarta Info Viral</title>
+    <title>Berita Teraktual &amp; Terupdate 2025 | Jatim News Today</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -118,22 +118,22 @@
 <body>
     <header>
         <h1>Berita Teraktual &amp; Terupdate 2025</h1>
-        Ikuti berita terbaru seputar Jakarta, DKI Jakarta, dan kejadian menarik terkini.&lt;/p&gt;
+        Ikuti berita terbaru seputar Jatim,  Jawa Timur, dan kejadian menarik terkini.&lt;/p&gt;
     </header>
     <nav>
         <a href="#berita-viral">Berita Viral</a>
-        <a href="#berita-jakarta">Berita Jakarta</a>
+        <a href="#berita-Jatim">Berita Jatim</a>
         <a href="#berita-terupdate">Berita Terupdate</a>
     </nav>
     <div class="container">
         <section id="berita-viral" class="article">
-            <h2>Video Unik di Jakarta Jadi Trending Nasional</h2>
+            <h2>Video Unik di Jatim Jadi Trending Nasional</h2>
             Video seorang pengemudi Bajai yang membantu Wisatawan Asing Jatuh ke selokan viral di media sosial dan menuai pujian.&lt;/p&gt;
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
         <section id="berita-medan" class="article">
-            <h2>Kondisi Jalan Arjuna Jakarta Saat Ini</h2>
-            <p>Pemerintah kota Jakarta sedang membuat pembaruan lalu lintas langusng dari jalan arjuna karena melonjak nya jumlah pengguna sepeda motor yang menyembabkan kemacetan parah.</p>
+            <h2>Kondisi Jalan Arjuna Jatim Saat Ini</h2>
+            <p>Pemerintah kota Jatim sedang membuat pembaruan lalu lintas langusng dari jalan arjuna karena melonjak nya jumlah pengguna sepeda motor yang menyembabkan kemacetan parah.</p>
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
         <section id="berita-terbaru" class="article">
@@ -152,18 +152,18 @@
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
         <section class="article">
-            <h2>Stadion Jakarta International Stadium Menajadi Tempat Berlaga Bagi Persija</h2>
-            <p>Stadion Jakarta International Stadium atau lebih dikenal dengan sebutan JIS akan menjadi maskas bagi Persatuan Sepak Bola Persija Jakarta.</p>
+            <h2>Stadion Jatim International Stadium Menajadi Tempat Berlaga Bagi Persija</h2>
+            <p>Stadion Jatim International Stadium atau lebih dikenal dengan sebutan JIS akan menjadi maskas bagi Persatuan Sepak Bola Persija Jatim.</p>
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
         <section class="article">
-            <h2>Jakarta Raih Penghargaan Kota Peduli Ham</h2>
-            <p>Peprov DKI Jakarta hari ini menerima penghargaan sebagai prediket Kota Peduli Ham.</p>
+            <h2>Jatim Raih Penghargaan Kota Peduli Ham</h2>
+            <p>Peprov DKI Jatim hari ini menerima penghargaan sebagai prediket Kota Peduli Ham.</p>
             <a class="read-more" href="#">Baca selengkapnya...</a>
         </section>
     </div>
     <footer>
-        <p>&copy; 2025 Harian Jakarta | Semua Hak Dilindungi.</p>
+        <p>&copy; 2025 Harian Jatim | Semua Hak Dilindungi.</p>
     </footer>
 </body>
 </html>
